@@ -16,7 +16,7 @@ public class FishAnimator : MonoBehaviour
 {
     static readonly List<FishAnimator> Instances = new List<FishAnimator>(32);
 
-    [SerializeField] Vector2 tankExtents = new Vector2(7f, 3.5f);
+    [SerializeField] Vector2 tankExtents = new Vector2(10.5f, 5.25f);
     [SerializeField] float swimSpeedBase = 2.2f;
 
     FishData _fish;

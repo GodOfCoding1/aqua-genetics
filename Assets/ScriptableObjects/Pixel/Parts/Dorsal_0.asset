@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff645f00cba11749a74567c980d122a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Aquarium.PixelArt.FishPart
+  partType: 2
+  variantIndex: 0
+  tierIndex: -1
+  displayName: Dorsal_0
+  frames:
+  - sprite: {fileID: 21300000, guid: 24af7900026501f49a522add93a19382, type: 3}
+    anchorOffsets:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+  - sprite: {fileID: 21300000, guid: 78898e16ee66a2841a484163959c91de, type: 3}
+    anchorOffsets:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+  - sprite: {fileID: 21300000, guid: 124cec7dc04ba7a4e84e2111091888df, type: 3}
+    anchorOffsets:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+  - sprite: {fileID: 21300000, guid: 68f4890e8838f484aaaf27fd9c2e95f0, type: 3}
+    anchorOffsets:
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+    - {x: 0, y: 0}
+  framesPerSecond: -1
+  playsOneShotOnly: 0
+  attachToBodyAnchor: 1
+  tags: []

@@ -280,13 +280,13 @@ public class FishInspector : MonoBehaviour
     }
 
     static readonly string[] BodyShapeNames =
-        { "Oval", "Elongated", "Deep", "Flat", "Round", "Torpedo", "Ribbon", "Diamond" };
+        { "Oval", "Round", "Slender", "Full Head", "Tall", "Chubby Head", "Ribbon", "Diamond" };
 
     static readonly string[] TailTypeNames =
         { "Fan", "Veil", "Lyre", "Rounded", "Forked", "Halfmoon" };
 
     static readonly string[] FinShapeNames =
-        { "Round", "Pointed", "Spike", "Sail", "Whisker" };
+        { "Round", "Teardrop", "Triangle", "Sail", "Nub" };
 
     static readonly string[] PatternNames =
         { "Solid", "Stripes", "Spots", "Marble", "Gradient", "Iridescent", "Outlined", "Reticulated", "Banded" };

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff645f00cba11749a74567c980d122a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Aquarium.PixelArt.FishPart
+  partType: 0
+  variantIndex: 1
+  tierIndex: -1
+  displayName: Body_1
+  frames:
+  - sprite: {fileID: 21300000, guid: 3916ad164394df74e8b0f59cce06e44d, type: 3}
+    anchorOffsets:
+    - {x: -0.641875, y: 0}
+    - {x: -0.009600035, y: 0.30510688}
+    - {x: 0.13839996, y: -0.0921025}
+    - {x: 0.43439993, y: 0.08362902}
+    - {x: 0.640625, y: 0.0033773184}
+  - sprite: {fileID: 21300000, guid: cdc78de9677d04444a1f3b17aa18bc50, type: 3}
+    anchorOffsets:
+    - {x: -0.641875, y: 0.01640625}
+    - {x: -0.009600035, y: 0.29306117}
+    - {x: 0.13839996, y: -0.09943575}
+    - {x: 0.43439993, y: 0.08362902}
+    - {x: 0.640625, y: 0.0033773184}
+  - sprite: {fileID: 21300000, guid: 42f934324260581409ea0a913d9390d7, type: 3}
+    anchorOffsets:
+    - {x: -0.641875, y: -0.0000000014342799}
+    - {x: -0.009600035, y: 0.29374304}
+    - {x: 0.13839996, y: -0.0937475}
+    - {x: 0.43439993, y: 0.08362902}
+    - {x: 0.640625, y: 0.0033773184}
+  - sprite: {fileID: 21300000, guid: 218e018668fffda4ab920d7a7d37f4e4, type: 3}
+    anchorOffsets:
+    - {x: -0.641875, y: -0.01640625}
+    - {x: -0.009600035, y: 0.3057888}
+    - {x: 0.13839996, y: -0.08641424}
+    - {x: 0.43439993, y: 0.08362902}
+    - {x: 0.640625, y: 0.0033773184}
+  framesPerSecond: -1
+  playsOneShotOnly: 0
+  attachToBodyAnchor: 2
+  tags: []

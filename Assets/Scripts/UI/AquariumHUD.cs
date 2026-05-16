@@ -21,7 +21,7 @@ public class AquariumHUD : MonoBehaviour
              "Otherwise a runtime root is created on demand.")]
     [SerializeField] Transform spawnParent;
 
-    [SerializeField] Vector2 spawnAreaHalfExtents = new Vector2(5f, 2.5f);
+    [SerializeField] Vector2 spawnAreaHalfExtents = new Vector2(7.5f, 3.75f);
 
     [Header("Refresh")]
     [Tooltip("Seconds between count text refreshes.")]
